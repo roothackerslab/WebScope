@@ -1,0 +1,45 @@
+# ═══════════════════════════════════════════════════════════════════
+# WebScope Pro v2.1 - Requirements
+# By: Mughal__Hacker | RootHackersLab
+# ═══════════════════════════════════════════════════════════════════
+
+# Core HTTP and Web Scraping
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+# Terminal Colors and Styling
+colorama>=0.4.6
+
+# WHOIS Lookup
+python-whois>=0.8.0
+
+# DNS Resolution
+dnspython>=2.4.0
+
+# Optional: Better HTML Parsing (recommended)
+html5lib>=1.1
+
+# Optional: Progress Bars (future enhancement)
+# tqdm>=4.66.0
+
+# ═══════════════════════════════════════════════════════════════════
+# INSTALLATION INSTRUCTIONS
+# ═══════════════════════════════════════════════════════════════════
+#
+# Install all dependencies:
+#   pip install -r requirements.txt
+#
+# Or install with Python 3:
+#   pip3 install -r requirements.txt
+#
+# For Termux (Android):
+#   pkg install python
+#   pip install -r requirements.txt
+#
+# For Kali Linux:
+#   sudo apt update
+#   sudo apt install python3-pip
+#   pip3 install -r requirements.txt
+#
+# ═══════════════════════════════════════════════════════════════════
